@@ -1,7 +1,3 @@
-# PROVA PRATICA - JOKENPO - GRUPO 4
-# Fernando Moro
-# Jonathan Rodrigues
-
 import random
 import os
 import time
